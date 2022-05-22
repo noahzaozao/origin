@@ -1,4 +1,4 @@
-module github.com/duanhf2012/origin
+module github.com/noahzaozao/origin
 
 go 1.17
 
